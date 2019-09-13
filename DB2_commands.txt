@@ -1,0 +1,4 @@
+#	Commands:	Description
+*	db2ilist:	list all the instance that are available on a system.
+*	db2 get instance:	to see the current instance which activated the current user.
+*	set db2instance=<instance_name>: to start or stop the database manager of an instance on DB2 UDB.
